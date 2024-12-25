@@ -14,3 +14,30 @@ Seamlessly connects automated Excel functionalities to the website’s backend f
 Minimizes manual errors, ensuring reliable and accurate results.
 - Scalability:
 Designed to handle large datasets and adapt to future business needs.
+
+# Technologies Used
+Programming Tools:
+- Python: Core programming language.
+- Pandas & OpenPyXL: For data manipulation and working with Excel files.
+- SQLAlchemy/pyodbc: For database connection and queries.
+- Database: Any relational database (e.g., MySQL, PostgreSQL, SQL Server) for storing and accessing data.
+- Excel Tools: Macros, VBA, and formulas for advanced automation tasks.
+
+# Workflow
+- Connects to the database using Python and retrieves live data based on user-defined queries.
+- Processes the fetched data—cleaning, filtering, and aggregating—using automation tools.
+- Generates Excel reports with charts and tables, ready for business use.
+- Provides insights quickly without manual intervention.
+
+
+# Use Case
+This project is currently implemented on the Mediaport website, enabling:
+
+- Real-time analysis of data directly from the database.
+- Automated report generation for business insights.
+- Enhanced decision-making by providing updated and accurate information.
+
+# Future Scope
+- Add support for NoSQL databases like MongoDB.
+- Integrate advanced visualizations for better insights.
+- Implement scheduling for automatic data updates and report generation.
