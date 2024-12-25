@@ -37,7 +37,3 @@ This project is currently implemented on the Mediaport website, enabling:
 - Automated report generation for business insights.
 - Enhanced decision-making by providing updated and accurate information.
 
-# Future Scope
-- Add support for NoSQL databases like MongoDB.
-- Integrate advanced visualizations for better insights.
-- Implement scheduling for automatic data updates and report generation.
